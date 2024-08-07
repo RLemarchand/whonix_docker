@@ -1,5 +1,4 @@
-![o,age](https://www.whonix.org/w/images/2/2c/Whonix-facebook-post.jpg)
-# whonix_docker
+![o,age](https://i.postimg.cc/nzw8zYJX/whonix.png)
 Utilizes a debian:bookworm Docker Container that automatically verifies and builds Whonix images, incorporating the official derivative-maker build script, while including environment variables to customize every available build option and log files of the entire build process. Additionally, dnscrypt-proxy and the ability to use onion sources with torified apt-cacher-ng offer maximum privacy.
  
 ## Usage
